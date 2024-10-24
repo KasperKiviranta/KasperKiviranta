@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Mediocore code since 2020<br>📚 I'm currently learning Website Development<br>🎯 Goals: Finish school degree in time</p>
+<p align="left">✨ Creating mediocore code since 2020<br>📚 I'm currently learning Website Development<br>🎯 Goals: Finish school degree in time</p>
 
 ###
 
